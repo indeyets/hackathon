@@ -1,0 +1,6 @@
+*.iml
+/.idea
+/bin/pake
+/composer.lock
+/config.yaml
+/vendor

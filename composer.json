@@ -1,0 +1,17 @@
+{
+    "name": "indeyets/hackathon",
+    "description": "project for OpenData Hackathon",
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hackathon": "src"
+        }
+    },
+    "require": {
+        "php": "~5.4",
+        "ext-mongo": "*",
+        "indeyets/pake": "~1.7"
+    }
+}
